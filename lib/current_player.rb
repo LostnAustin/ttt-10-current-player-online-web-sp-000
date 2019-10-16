@@ -13,7 +13,7 @@ end
 
 
 def current_player(board)
-while
+
 
    turn_count(board) % 2 == true
     return "O"
